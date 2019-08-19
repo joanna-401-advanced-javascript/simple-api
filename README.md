@@ -5,7 +5,7 @@
 ### Author: Joanna Arroyo
 
 ### Links and Resources
-* [submission PR](https://github.com/joanna-401-advanced-javascript/simple-api/pull/1)
+* [submission PR](https://github.com/joanna-401-advanced-javascript/simple-api/pull/2)
 * [code sandbox](https://codesandbox.io/s/api-client-e1h6g)
 
 #### Documentation
