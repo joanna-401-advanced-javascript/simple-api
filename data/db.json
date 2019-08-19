@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "name": "food",
+      "display_name": "Food",
+      "description": "All the delicious things I love to eat",
+      "id": 1
+    },
+    {
+      "name": "books",
+      "display_name": "Books",
+      "description": "Things to read",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "category": "food",
+      "name": "soup",
+      "display_name": "Soup",
+      "description": "A liquid hug",
+      "id": 1
+    },
+    {
+      "category": "books",
+      "name": "mathilda",
+      "display_name": "Mathilda",
+      "description": "Girl who discovers she has magic does good around her",
+      "id": 2
+    },
+    {
+      "category": "food",
+      "name": "donuts",
+      "display_name": "Donuts",
+      "description": "Fluffy clouds of fried gluten goodness",
+      "id": 3
+    },
+    {
+      "category": "food",
+      "name": "chickpeas",
+      "display_name": "Chickpeas / Garbanzo Beans",
+      "description": "Crunchy hummus",
+      "id": 4
+    }
+  ]
+}
